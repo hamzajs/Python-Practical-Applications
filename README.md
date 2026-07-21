@@ -19,7 +19,7 @@ A collection of 13 practical Python projects focusing on automation, file proces
 To run these projects locally, ensure you have Python 3 installed. Clone the repository and install the required dependencies:
 
 ```bash
-git clone [https://github.com/YOUR_USERNAME/Python-Practical-Applications.git](https://github.com/hamzajs/-Python-Practical-Applications-.git)
+git clone [https://github.com/hamzajs/Python-Practical-Applications.git](https://github.com/hamzajs/Python-Practical-Applications.git)
 cd Python-Practical-Applications
 pip install -r requirements.txt
 ```
